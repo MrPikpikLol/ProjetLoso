@@ -159,7 +159,7 @@ p {
 .btn-tour:hover {
   color: #fff;
 }
-.btn-tour i {
+.fa-angle-down {
   font-size: 20px;
   padding-left: 5px;
   color: #129CF3;
@@ -470,7 +470,7 @@ p {
     -webkit-transition: all 1s;
 }
 
-.available-on-item .fa-apple .fa-android .fa-windows:hover {
+.fa-apple .fa-android .fa-windows:hover {
     opacity: 0;
 }
 
