@@ -46,7 +46,7 @@ $(document).ready(function(){
 
 
 });
-/* add smooth scroling */
+// add smooth scroling 
 
 $(document).ready(function(){
 
@@ -68,7 +68,7 @@ $(document).ready(function(){
 
 });
 
-/* active menu item on click*/
+// active menu item on click
 $(document).ready(function(){
 
     'use strict';
